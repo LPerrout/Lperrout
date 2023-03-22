@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luiz Fernando Perrout ✌️
 
 #### 📝 ENGENHARIA DE CONTROLE E AUTOMAÇÃO - UFRJ
-#### 💀 Desenvolvedor Web na Fluxo Consultoria
+#### 💀 Desenvolvedor Web e mobile na Fluxo Consultoria
 #### 🏙️ Rio de Janeiro - RJ - Brasil
 
 ## 🏋️‍♂️ Atividade
