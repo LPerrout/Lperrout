@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luiz Fernando Perrout ✌️
 
 #### 📝 ENGENHARIA DE CONTROLE E AUTOMAÇÃO - UFRJ
-#### 💀 Desenvolvedor Web e mobile na Fluxo Consultoria
+#### 💀 Estagiario de Banking na Stone Co.
 #### 🏙️ Rio de Janeiro - RJ - Brasil
 
 ## 🏋️‍♂️ Atividade
