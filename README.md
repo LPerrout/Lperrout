@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luiz Fernando Perrout ✌️
 
 #### 📝 ENGENHARIA DE CONTROLE E AUTOMAÇÃO - UFRJ
-#### 💀 Estagiario de Banking na Stone Co.
+#### 💀 Estagiario de Process Automation IT no BTG Pactual.
 #### 🏙️ Rio de Janeiro - RJ - Brasil
 
 ## 🏋️‍♂️ Atividade
@@ -9,9 +9,6 @@
 <div>
   
 <div style="display: inline_block" align="center">
-  
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LPerrout&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPerrout&layout=compact&theme=merko)](https://github.com/LPerrout/github-readme-stats)
   
   </div>
 
